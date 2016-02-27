@@ -1,0 +1,12 @@
+body {
+  background-color:grey;
+}
+
+.ao {
+  width: 300px;
+  height: 200px;
+  border-style: solid;
+}
+a.des:hover {
+  color: green;
+}
